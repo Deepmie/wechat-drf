@@ -1,0 +1,5 @@
+django==3.2.15
+django-cors-headers==4.2.0
+djoser==2.2.0
+djangorestframework==3.14.0
+transformers==4.36.2
